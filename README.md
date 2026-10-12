@@ -1,16 +1,17 @@
-## Hi there 👋
+# samuelwahbe
 
-<!--
-**samuelwahbe/samuelwahbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love the Original XBOX... and I'm Brazilian >:3
 
-Here are some ideas to get you started:
+## 🛠️ Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🟢️ STABLE / 🟡️ IN DEVELOPMENT
+
+🟡️ SW Dash
+🟢️ SW Projects (WebSite)
+🟢️ Nexo
+
+### 🔴️ DISCONTINUED
+
+🔴️ c00lgui Reborn by x_c00lkidd_x
+🔴️ 007n7's hub
+🔴️ CoreGui
