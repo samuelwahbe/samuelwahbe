@@ -20,6 +20,6 @@
 
 🔴️ - [CoreGuard](https://github.com/samuelwahbe/CoreGuard)
 
-## 🌐️ My WebSite
+## 🌐️ My WebSites
 
 🌐️ - [SW Projects](https://swprojects.netlify.app/)
