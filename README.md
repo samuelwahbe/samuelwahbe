@@ -1,6 +1,6 @@
 <img width="400" height="46" alt="samuelwahbe LOGO" src="https://github.com/user-attachments/assets/9ada046a-7d45-405f-99da-23fadb8209f3" />
 
-👋️ Hello! im **samuelwahbe**! I use `He/Him (Male)` pronouns and i love Linux and XBOX Classic!
+👋️ Hello! I'm **samuelwahbe**! I use `He/Him (Male)` pronouns and i love Linux and XBOX Classic!
 
 ## 📖️ Who is samuelwahbe?
 
