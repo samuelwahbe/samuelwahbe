@@ -1,6 +1,6 @@
 # samuelwahbe
 
-I love the Original XBOX... and I'm Brazilian >:3
+👋️ Hello! im `samuelwahbe`! My pronouns is He/Him (Male), and i love Linux and XBOX Classic!
 
 ## 🛠️ Projects
 
