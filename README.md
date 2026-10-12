@@ -6,16 +6,16 @@
 
 ### 🟢️ STABLE / 🟡️ IN DEVELOPMENT
 
-🟡️ - SW Dash
+🟡️ - [SW Dash](https://github.com/samuelwahbe/SWDash)
 
-🟢️ - SW Projects (WebSite)
+🟢️ - [SW Projects (WebSite)](https://github.com/samuelwahbe/SW-Projects)
 
-🟢️ - Nexo
+🟢️ - [Nexo](https://github.com/samuelwahbe/Nexo)
 
 ### 🔴️ DISCONTINUED
 
-🔴️ - c00lgui Reborn by x_c00lkidd_x
+🔴️ - [c00lgui Reborn by x_c00lkidd_x](https://github.com/samuelwahbe/c00lgui-Reborn-by-x_c00lkidd_x)
 
-🔴️ - 007n7's hub
+🔴️ - [007n7's hub](https://github.com/samuelwahbe/007n7-s-hub)
 
-🔴️ - CoreGui
+🔴️ - [CoreGuard](https://github.com/samuelwahbe/CoreGuard)
