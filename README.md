@@ -32,11 +32,15 @@ Eventually, I decided to change direction and focus on Linux and Xbox Classic...
 
 🔴️ - [CoreGuard](https://github.com/samuelwahbe/CoreGuard)
 
-## 📄️ Where are the projects tested?
+## 🧪️ Where do I test my projects?
 
-- XBOX Classic projects in [XEMU Emulator](https://xemu.app/)
+🎮️ - XBOX Classic projects in [xemu Emulator](https://xemu.app/)
 
-- Linux Software projects in [Linux Mint](https://linuxmint.com/)
+🐧️ - Linux software projects in [Linux Mint](https://linuxmint.com/)
+
+👾️ - Old Roblox exploits in Delta Executor (I don't remember the link lol)
+
+📄️ - Old `.click` apps in [Ubuntu Touch](https://www.ubuntu-touch.io/)
 
 ## 🌐️ My WebSites
 
