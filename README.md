@@ -32,6 +32,12 @@ Eventually, I decided to change direction and focus on Linux and Xbox Classic...
 
 🔴️ - [CoreGuard](https://github.com/samuelwahbe/CoreGuard)
 
+## 📄️ Where are the projects tested?
+
+- XBOX Classic projects in [XEMU Emulator](https://xemu.app/)
+
+- Linux Software projects in [Linux Mint](https://linuxmint.com/)
+
 ## 🌐️ My WebSites
 
 🌐️ - [SW Projects](https://swprojects.netlify.app/)
