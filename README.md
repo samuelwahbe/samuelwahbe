@@ -12,7 +12,7 @@ After all that, `x_c00lkidd_x` came along, and I became known as `c00lkidd`. I d
 
 Not satisfied with that, I created the actual exploit: `c00lgui Reborn by x_c00lkidd_x`... followed by `007n7's hub`.
 
-Eventually, I decided to change direction and focus on Linux and Xbox Classic.
+Eventually, I decided to change direction and focus on Linux and Xbox Classic... because why not?
 
 ## 🛠️ Projects
 
