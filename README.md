@@ -24,13 +24,13 @@ Eventually, I decided to change direction and focus on Linux and XBOX Classic...
 
 🟢️ - [SW Projects (WebSite)](https://github.com/samuelwahbe/SW-Projects)
 
+🟢️ - [Aureon WebSite](https://github.com/samuelwahbe/Aureon-WebSite)
+
 🟢️ - [Nexo](https://github.com/samuelwahbe/Nexo)
 
 ### 🟡️ IN DEVELOPMENT
 
 🟡️ - [Aureon Linux](https://github.com/samuelwahbe/Aureon)
-
-🟡️ - [Aureon WebSite](https://github.com/samuelwahbe/Aureon-WebSite)
 
 🟡️ - [SW Dash](https://github.com/samuelwahbe/SWDash) (Waiting to continue - NULL stage)
 
