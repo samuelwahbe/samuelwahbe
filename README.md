@@ -4,7 +4,7 @@
 
 ## 👤 Why the name 'samuelwahbe'?
 
-The name **samuelwahbe** came from my Roblox account. Me and my dad created my account with my name, `Samuel Luizari Wahbe`. My dad is parte of family `Wahbe` and my mom is `Luizari`.
+The name **samuelwahbe** came from my Roblox account. My dad and I created my account using my full name, `Samuel Luizari Wahbe`. My dad is part of the `Wahbe` family, and my mom is part of the `Luizari` family, because of that, is **samuelwahbe**.
 
 ## 📖️ Who is samuelwahbe?
 
