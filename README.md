@@ -52,7 +52,7 @@ Eventually, I decided to change direction and focus on Linux and XBOX Classic...
 
 ## 💥️ Cool facts
 
-😺️ - All my projects (except the discontinued ones) have or will have a cat easter egg. Good luck founding it!
+😺️ - All my projects (except the discontinued ones) have or will have a cat Easter egg. Good luck finding it!
 
 ## 🌐️ My WebSites
 
