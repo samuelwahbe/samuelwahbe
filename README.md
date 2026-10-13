@@ -30,7 +30,7 @@ Eventually, I decided to change direction and focus on Linux and XBOX Classic...
 
 🟡️ - [Aureon Linux](https://github.com/samuelwahbe/Aureon)
 
-🟡️ - [Aureon WebSite]()
+🟡️ - [Aureon WebSite](https://github.com/samuelwahbe/Aureon-WebSite)
 
 🟡️ - [SW Dash](https://github.com/samuelwahbe/SWDash) (Waiting to continue - NULL stage)
 
