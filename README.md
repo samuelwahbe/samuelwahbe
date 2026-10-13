@@ -50,6 +50,10 @@ Eventually, I decided to change direction and focus on Linux and XBOX Classic...
 
 📄️ - `.click` apps projects in [Ubuntu Touch](https://www.ubuntu-touch.io/)
 
+## 💥️ Cool facts
+
+😺️ - All my projects (except the discontinued ones) have or will have a cat easter egg. Good luck founding it!
+
 ## 🌐️ My WebSites
 
 🌐️ - [SW Projects](https://swprojects.netlify.app/)
