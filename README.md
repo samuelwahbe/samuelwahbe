@@ -34,13 +34,17 @@ Eventually, I decided to change direction and focus on Linux and Xbox Classic...
 
 ## 🧪️ Where do I test my projects?
 
+### 💯️ ACTUAL
+
 🎮️ - XBOX Classic projects in [xemu Emulator](https://xemu.app/)
 
 🐧️ - Linux software projects in [Linux Mint](https://linuxmint.com/)
 
-👾️ - Old Roblox exploits in Delta Executor (I don't remember the link lol)
+### ⏳️ OLD
 
-📄️ - Old `.click` apps in [Ubuntu Touch](https://www.ubuntu-touch.io/)
+👾️ - Roblox exploits projects in [Delta Executor](https://deltaexploits.gg/)
+
+📄️ - `.click` apps projects in [Ubuntu Touch](https://www.ubuntu-touch.io/)
 
 ## 🌐️ My WebSites
 
