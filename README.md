@@ -34,7 +34,7 @@ Eventually, I decided to change direction and focus on Linux and Xbox Classic...
 
 ## 🧪️ Where do I test my projects?
 
-### 💯️ ACTUAL
+### 💯️ CURRENT
 
 🎮️ - XBOX Classic projects in [xemu Emulator](https://xemu.app/)
 
