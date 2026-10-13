@@ -1,6 +1,6 @@
 <img width="400" height="46" alt="samuelwahbe LOGO" src="https://github.com/user-attachments/assets/9ada046a-7d45-405f-99da-23fadb8209f3" />
 
-👋️ Hello! I'm **samuelwahbe**! I use `He/Him (Male)` pronouns and I love Linux and XBOX Classic!
+👋️ Hello! I'm **samuelwahbe**! I use `He/Him (Male)` pronouns, I have 13 years old and I love Linux and XBOX Classic! And yes, I use AI in my projects, but I have all the ideas of the projects... the AI just make the code.
 
 ## 📖️ Who is samuelwahbe?
 
