@@ -20,13 +20,15 @@ Eventually, I decided to change direction and focus on Linux and XBOX Classic...
 
 ## 🛠️ Projects
 
-### 🟢️ STABLE / 🟡️ IN DEVELOPMENT
-
-🟡️ - [SW Dash](https://github.com/samuelwahbe/SWDash)
+### 🟢️ STABLE - IN DEVELOPMENT
 
 🟢️ - [SW Projects (WebSite)](https://github.com/samuelwahbe/SW-Projects)
 
 🟢️ - [Nexo](https://github.com/samuelwahbe/Nexo)
+
+### 🟡️ IN DEVELOPMENT
+
+🟡️ - [SW Dash](https://github.com/samuelwahbe/SWDash)
 
 ### 🔴️ DISCONTINUED
 
