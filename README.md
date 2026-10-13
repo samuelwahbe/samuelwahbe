@@ -28,7 +28,7 @@ Eventually, I decided to change direction and focus on Linux and XBOX Classic...
 
 ### 🟡️ IN DEVELOPMENT
 
-🟡️ - [Aureon Linux]()
+🟡️ - [Aureon Linux](https://github.com/samuelwahbe/Aureon)
 
 🟡️ - [Aureon WebSite]()
 
