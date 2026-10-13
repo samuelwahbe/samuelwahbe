@@ -8,11 +8,11 @@ The name **samuelwahbe** came from my Roblox account. My dad and I created my ac
 
 ## 📖️ Who is samuelwahbe?
 
-I started my project development journey some time ago... Back then, I was known as [UbportsBR](https://github.com/ubportsbr-hub). My first project was a website for UbportsBR, which wasn't really useful since an official website already existed... What was I thinking? I have no idea.
+I started my project development journey some time ago... Back then, I use the name [UbportsBR](https://github.com/ubportsbr-hub). My first project was a website for UbportsBR, which wasn't really useful since an official website already existed... What was I thinking? I have no idea.
 
 Moving on... I used Ubuntu Touch 16.04 on my phone, the `Redmi Note 8 Ginkgo`. As expected, I developed two `.click` packages for Ubuntu Touch.
 
-After all that, `x_c00lkidd_x` came along, and I became known as `c00lkidd`. I developed the game [c00lgui Chaos Server](https://www.roblox.com/games/127597634818382/c00lgui-Chaos-Server) on Roblox.
+After all that, [x_c00lkidd_x](https://www.roblox.com/communities/838149476/samuelwahbes-group) came along, and I use the name `c00lkidd`. I developed the game [c00lgui Chaos Server](https://www.roblox.com/games/127597634818382/c00lgui-Chaos-Server) on Roblox.
 
 Not satisfied with that, I created the actual exploit: `c00lgui Reborn by x_c00lkidd_x`... followed by `007n7's hub`.
 
