@@ -2,6 +2,10 @@
 
 👋️ Hello! I'm **samuelwahbe**! I use `He/Him (Male)` pronouns, I have 13 years old and I love Linux and XBOX Classic! And yes, I use AI in my projects, but I have all the ideas of the projects... the AI just make the code.
 
+## 👤 Why the name 'samuelwahbe'?
+
+The name **samuelwahbe** came from my Roblox account. Me and my dad created my account with my name, `Samuel Luizari Wahbe`. My dad is parte of family `Wahbe` and my mom is `Luizari`.
+
 ## 📖️ Who is samuelwahbe?
 
 I started my project development journey some time ago... Back then, I was known as [UbportsBR](https://github.com/ubportsbr-hub). My first project was a website for UbportsBR, which wasn't really useful since an official website already existed... What was I thinking? I have no idea.
