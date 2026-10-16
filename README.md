@@ -66,5 +66,3 @@ Eventually, I decided to change direction and focus on Linux and XBOX Classic...
 🌐️ - [SW Projects](https://swprojects.netlify.app/)
 
 🌐️ - [Aureon WebSite](https://aureonlinux.netlify.app/)
-
-**2026 - Copyright © The Raven Project**
