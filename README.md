@@ -22,15 +22,3 @@ Eventually, I decided to change direction and focus on Linux... because why not?
 ## 🛠️ Projects
 
 I don't create projects here; all projects, except for discontinued ones, are on [HexaWorks](https://github.com/HexaWorksOfficial)
-
-## 🧪️ Where do I test my projects?
-
-### 💯️ CURRENT
-
-🐧️ - Linux software projects in [Debian](https://www.debian.org/).
-
-### ⏳️ OLD
-
-👾️ - Roblox exploits projects in [Delta Executor](https://deltaexploits.gg/).
-
-📄️ - `.click` apps projects in [Ubuntu Touch](https://www.ubuntu-touch.io/).
