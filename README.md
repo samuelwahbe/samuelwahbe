@@ -35,7 +35,7 @@ I don't create projects here; all projects, except for discontinued ones, are on
 
 📄️ - `.click` apps projects in [Ubuntu Touch](https://www.ubuntu-touch.io/)
 
-## 🌐️ My WebSites
+## 🌐️ WebSites
 
 🌐️ - [SW Projects](https://swprojects.netlify.app/)
 
