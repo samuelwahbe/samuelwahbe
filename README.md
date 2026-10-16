@@ -27,16 +27,10 @@ I don't create projects here; all projects, except for discontinued ones, are on
 
 ### 💯️ CURRENT
 
-🐧️ - Linux software projects in [Linux Mint](https://linuxmint.com/)
+🐧️ - Linux software projects in [Debian](https://www.debian.org/).
 
 ### ⏳️ OLD
 
-👾️ - Roblox exploits projects in [Delta Executor](https://deltaexploits.gg/)
+👾️ - Roblox exploits projects in [Delta Executor](https://deltaexploits.gg/).
 
-📄️ - `.click` apps projects in [Ubuntu Touch](https://www.ubuntu-touch.io/)
-
-## 🌐️ WebSites
-
-🌐️ - [SW Projects](https://swprojects.netlify.app/)
-
-🌐️ - [Aureon WebSite](https://aureonlinux.netlify.app/)
+📄️ - `.click` apps projects in [Ubuntu Touch](https://www.ubuntu-touch.io/).
