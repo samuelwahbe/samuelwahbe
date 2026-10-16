@@ -21,27 +21,7 @@ Eventually, I decided to change direction and focus on Linux and XBOX Classic...
 
 ## 🛠️ Projects
 
-### 🟢️ STABLE - IN DEVELOPMENT
-
-🟢️ - [SW Projects (WebSite)](https://github.com/samuelwahbe/SW-Projects)
-
-🟢️ - [Aureon WebSite](https://github.com/samuelwahbe/Aureon-WebSite)
-
-🟢️ - [Nexo](https://github.com/samuelwahbe/Nexo)
-
-### 🟡️ IN DEVELOPMENT
-
-🟡️ - [Aureon Linux](https://github.com/samuelwahbe/Aureon)
-
-🟡️ - [SW Dash](https://github.com/samuelwahbe/SWDash) (Waiting to continue - NULL stage)
-
-### 🔴️ DISCONTINUED
-
-🔴️ - [c00lgui Reborn by x_c00lkidd_x](https://github.com/samuelwahbe/c00lgui-Reborn-by-x_c00lkidd_x)
-
-🔴️ - [007n7's hub](https://github.com/samuelwahbe/007n7-s-hub)
-
-🔴️ - [CoreGuard](https://github.com/samuelwahbe/CoreGuard)
+I don't create projects here; all projects, except for discontinued ones, are on [HexaWorks](https://github.com/HexaWorksOfficial)
 
 ## 🧪️ Where do I test my projects?
 
