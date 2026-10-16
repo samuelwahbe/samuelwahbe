@@ -1,6 +1,6 @@
 <img width="400" height="46" alt="samuelwahbe LOGO" src="https://github.com/user-attachments/assets/9ada046a-7d45-405f-99da-23fadb8209f3" />
 
-👋️ Hello! I'm **samuelwahbe**! I use `He/Him (Male)` pronouns, I'm 13 years old, and I love Linux and XBOX Classic! And yes, I use AI in my projects, but all the ideas are mine... AI just helps me write the code. I use so much the font Orbitron, because of that, here is the [OFL.txt](https://github.com/user-attachments/files/33412133/OFL.txt) file.
+👋️ Hello! I'm **samuelwahbe**! I use `He/Him (Male)` pronouns, I'm 13 years old, and I love Linux! And yes, I use AI in my projects, but all the ideas are mine... AI just helps me write the code. I use so much the font Orbitron, because of that, here is the [OFL.txt](https://github.com/user-attachments/files/33412133/OFL.txt) file.
 
 
 ## 👤 Why the name 'samuelwahbe'?
@@ -17,7 +17,7 @@ After all that, [x_c00lkidd_x](https://www.roblox.com/communities/838149476/samu
 
 Not satisfied with that, I created the actual exploit: `c00lgui Reborn by x_c00lkidd_x`... followed by `007n7's hub`.
 
-Eventually, I decided to change direction and focus on Linux and XBOX Classic... because why not?
+Eventually, I decided to change direction and focus on Linux... because why not?
 
 ## 🛠️ Projects
 
@@ -26,8 +26,6 @@ I don't create projects here; all projects, except for discontinued ones, are on
 ## 🧪️ Where do I test my projects?
 
 ### 💯️ CURRENT
-
-🎮️ - XBOX Classic projects in [xemu Emulator](https://xemu.app/)
 
 🐧️ - Linux software projects in [Linux Mint](https://linuxmint.com/)
 
