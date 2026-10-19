@@ -21,4 +21,4 @@ Eventually, I decided to change direction and focus on Linux... because why not?
 
 ## 🛠️ Projects
 
-I don't create projects here; all projects, except for discontinued ones, are on [HexaWorks](https://github.com/HexaWorksOfficial)... And I'm the founder of [Y.Org]()
+I don't create projects here; all projects, except for discontinued ones, are on [HexaWorks](https://github.com/HexaWorksOfficial)... And I'm the founder of [Y.Org](https://github.com/The-Y-Org-Project).
