@@ -19,6 +19,6 @@ Not satisfied with that, I created the actual exploit: `c00lgui Reborn by x_c00l
 
 Eventually, I decided to change direction and focus on Linux... because why not?
 
-## 🛠️ Projects
+## Owner of...
 
-I don't create projects here; all projects, except for discontinued ones, are on [HexaWorks](https://github.com/HexaWorksOfficial)... And I'm the founder of [YComp](https://ycomp-hq.vercel.app/) AND [LnxOS](https://lnxos.netlify.app/).
+- [Xylum Foundation](https://xylum-foundation.vercel.app/)
