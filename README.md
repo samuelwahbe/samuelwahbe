@@ -19,6 +19,6 @@ Not satisfied with that, I created the actual exploit: `c00lgui Reborn by x_c00l
 
 Eventually, I decided to change direction and focus on Linux... because why not?
 
-## Owner of...
+## 👑️ Owner of...
 
 - [Xylum Foundation](https://xylum-foundation.vercel.app/)
