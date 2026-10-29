@@ -19,6 +19,10 @@ Not satisfied with that, I created the actual exploit: `c00lgui Reborn by x_c00l
 
 Eventually, I decided to change direction and focus on Linux... because why not?
 
-## 👑️ Owner of...
+## 🐧 My linux distro
+
+My linux distro is Arch Linux (I Use Arch Btw) with XFCE. I use XFCE because I want to use X11, not Wayland.
+
+## 👑️ Im owner of...
 
 - [Xylum Foundation](https://xylum-foundation.vercel.app/)
