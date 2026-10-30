@@ -21,7 +21,7 @@ Eventually, I decided to change direction and focus on Linux... because why not?
 
 ## 🐧 My linux distro
 
-<img src="./Arch_With_Xfce.png" width="550" alt="Arch Linux with XFCE">
+<img src="./Arch_With_Xfce.png" width="550" alt="Arch Linux with Xfce4">
 
 My linux distro is Arch Linux (I Use Arch Btw) with XFCE. I use XFCE because I want to use X11, not Wayland.
 
